@@ -1,12 +1,58 @@
-# React + Vite
+# 🌊 Ocean Hub — Smart Cargo Shipment Platform
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to **Ocean Hub**, your intelligent cargo shipment solution designed to make logistics simple, optimized, and efficient.
 
-Currently, two official plugins are available:
+Whether you're shipping fragile items or managing large cargo loads, Ocean Hub offers tools to plan, visualize, and track your cargo with confidence.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🚀 Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### 📦 Smart Cargo Loading  
+Our advanced algorithm calculates the **optimal cargo placement** to maximize container space while respecting stacking and weight distribution rules.
+
+---
+
+### 🧊 Fragile Item Protection  
+Fragile items are **automatically detected and protected**. They're placed in safe zones with non-stackable items positioned carefully on top when required.
+
+---
+
+### 📝 Guided Cargo Input  
+Easily input cargo **dimensions, weight, item type, and special instructions** through a clean, step-by-step form. No complexity—just clarity.
+
+---
+
+### 📊 3D Loading Visualization  
+Visualize your cargo in **real-time 3D** before confirming. Understand exactly how items are loaded inside containers with our interactive layout viewer.
+
+---
+
+### 💳 Secure Payment & Confirmation  
+Get a clear **cost summary** and complete your booking with secure payment options. Transparency and trust at every step.
+
+---
+
+### 🚚 Real-Time Shipment Tracking  
+Track your shipment **from dispatch to delivery** with live updates and alerts. Stay informed every step of the way.
+
+---
+
+## 📫 Contact  
+For questions, feedback, or partnership inquiries, please reach out at:  
+📧 **adarsh21122004@gmail.com**
+
+---
+
+## 🛠 Tech Stack  
+- Vite + React + Tailwind CSS  
+- Three.js for 3D visualization 
+
+---
+
+## 🌐 Live Demo  
+[Visit Ocean Hub]  🚢
+
+---
+
+Thank you for choosing **Ocean Hub** — where cargo meets intelligence.
