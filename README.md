@@ -51,7 +51,7 @@ For questions, feedback, or partnership inquiries, please reach out at:
 ---
 
 ## 🌐 Live Demo  
-[Visit Ocean Hub]  🚢
+[Visit Ocean Hub] (https://oceanhub-opal.vercel.app/)🚢
 
 ---
 
