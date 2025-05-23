@@ -99,11 +99,11 @@ const containerTypes = [
 
 // Sample port distances (in km)
 const portDistances = {
-  "Nhava Sheva (JNPT) → Los Angeles": 14000,
-  "Shanghai → Rotterdam": 18000,
-  "Singapore → Hamburg": 15000,
-  "Busan → Long Beach": 9500,
-  "Dubai → New York": 12000
+  "Mumbai → Los Angeles": 14000,
+  "Karnataka → Rotterdam": 18000,
+  "Goa → Hamburg": 15000,
+  "Kerla → Long Beach": 9500,
+  "Andra Pradesh → New York": 12000
 };
 
 function Container({ width, height, depth }) {
